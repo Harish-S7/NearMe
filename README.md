@@ -289,8 +289,8 @@ shree.html
 ```
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/72f7ac07-ed7d-4432-8332-ea90b196e2aa)
 
-![Screenshot 2024-11-26 093044](https://github.com/user-attachments/assets/db23b44f-46fc-4aa5-9f5c-f08be4d6dd74)
 ![image](https://github.com/user-attachments/assets/317c1cda-c9b6-4eea-be39-f5f9069da44e)
 ![image](https://github.com/user-attachments/assets/c6d56779-556a-4ffa-b3b8-fcb86c70c76d)
 ![image](https://github.com/user-attachments/assets/509b7530-3522-4106-915a-530fd990cfbc)
